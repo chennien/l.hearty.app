@@ -1,0 +1,9 @@
+#
+# Robots.txt file for l.hearty.app
+#
+# For questions, please contact https://bit.ly/34l3I2k .
+# https://goo.gl/nCyMnS
+
+User-agent: *
+Disallow: /
+Allow: /.well-known/
