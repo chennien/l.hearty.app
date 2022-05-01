@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 46 */
+/* Hearty Journal Language Pack: Beta 47 */
 
 var _h$ = {};
 
@@ -398,7 +398,7 @@ _h$["e"] = _h$["e"] || {
 		"To receive reply, email verification is needed."
 	], 
 	n_verify_phone: "Verify your phone number to enhance account security", 
-	n_vip_expired: "VIP premium plan $val, click here to subscribe", 
+	n_vip_prefix: "Your VIP plan", 
 	n_char_limit_exceed: "You've wrote $chars words, the text quota for lite edition reached.", 
 	n_daily_checkin: "Daily Check-in", 
 	checkin: [

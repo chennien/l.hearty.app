@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 46 */
+/* Hearty Journal Language Pack: Beta 47 */
 
 var _h$ = {};
 
@@ -397,7 +397,7 @@ _h$["e"] = _h$["e"] || {
 		"點此驗證 Email，以便收取回覆"
 	], 
 	n_verify_phone: "綁定手機號碼，以增加帳號安全性", 
-	n_vip_expired: "VIP $val，按此了解專屬續訂優惠", 
+	n_vip_prefix: "您的 VIP", 
 	n_char_limit_exceed: "寫了 $chars字，已達字數限額，立即升級", 
 	n_daily_checkin: "來收集小布點，今天還沒簽到唷", 
 	checkin: [
