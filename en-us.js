@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 47 */
+/* Hearty Journal Language Pack: Beta 48 */
 
 var _h$ = {};
 
@@ -560,10 +560,10 @@ _h$["p"] = _h$["p"] || {
 
 	due: "My Subscription", 
 	due_active: ["Active Subscription"], 
-	due_date: ["Expires on ", "", "and you'll be downgraded to lite edition"], 
-	due_days: ["Expires in  ", "days", "and you'll be downgraded to lite edition"], 
-	due_tomorrow: ["Expires tomorrow", "and you'll be downgraded to lite edition"], 
-	due_today: ["Expires today", "and you're downgraded to lite edition"], 
+	due_date: ["Expires on ", "", "then you'll be downgraded to lite edition"], 
+	due_days: ["Expires in  ", "days", "then you'll be downgraded to lite edition"], 
+	due_tomorrow: ["Expires tomorrow", "then you'll be downgraded to lite edition"], 
+	due_today: ["Expires today", "then you'll be downgraded to lite edition"], 
 
 	iap: [
 		"billed monthly, cancel anytime", 

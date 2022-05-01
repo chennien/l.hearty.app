@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 47 */
+/* Hearty Journal Language Pack: Beta 48 */
 
 var _h$ = {};
 
@@ -397,7 +397,7 @@ _h$["e"] = _h$["e"] || {
 		"點此驗證 Email，以便收取回覆"
 	], 
 	n_verify_phone: "綁定手機號碼，以增加帳號安全性", 
-	n_vip_prefix: "您的 VIP", 
+	n_vip_prefix: "您的 VIP 方案", 
 	n_char_limit_exceed: "寫了 $chars字，已達字數限額，立即升級", 
 	n_daily_checkin: "來收集小布點，今天還沒簽到唷", 
 	checkin: [
@@ -559,8 +559,8 @@ _h$["p"] = _h$["p"] || {
 
 	due: "我的 VIP 訂閱效期", 
 	due_active: ["已訂閱 VIP 方案"], 
-	due_date: ["於 ", " 到期", "到期後，將自動回到基本版"], 
-	due_days: ["於 ", "天後到期", "到期後，將自動回到基本版"], 
+	due_date: ["於 ", " 到期", "之後將自動回到基本版"], 
+	due_days: ["將於 ", "天後到期", "之後將自動回到基本版"], 
 	due_tomorrow: ["明天到期", "即將自動回到基本版"], 
 	due_today: ["今日到期", "即將自動回到基本版"], 
 
