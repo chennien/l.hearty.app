@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 48 */
+/* Hearty Journal Language Pack: Beta 49 */
 
 var _h$ = {};
 
@@ -436,7 +436,8 @@ _h$["e"] = _h$["e"] || {
 		"使用电脑版", 
 		"问问题", 
 		"重新整理", 
-		"检测使用"
+		"检测使用", 
+		"升级为 VIP 会员，畅享完整功能"
 	], 
 	link: [
 		"即将前往外部网站", 

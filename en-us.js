@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 48 */
+/* Hearty Journal Language Pack: Beta 49 */
 
 var _h$ = {};
 
@@ -295,7 +295,7 @@ _h$["e"] = _h$["e"] || {
 		"Your paragraph is too short.", 
 		", thank you for submitting a ticket. You will receive a reply within 24 business hours via email.", 
 		"OK", 
-		"Learn more about the VIP premium", 
+		"Learn more about VIP premium plan", 
 		"Oops, please try again later."
 	], 
 	video: [
@@ -437,7 +437,8 @@ _h$["e"] = _h$["e"] || {
 		"Desktop App", 
 		"Help Center", 
 		"Reload", 
-		"Debug Mode"
+		"Debug Mode", 
+		"Get VIP premium features"
 	], 
 	link: [
 		"Visiting an External Link", 
