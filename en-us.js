@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 49 */
+/* Hearty Journal Language Pack: Beta 50 */
 
 var _h$ = {};
 
@@ -115,7 +115,7 @@ _h$["i"] = _h$["i"] || {
 		"Create an Account", 
 		"Sign in to Hearty Journal", 
 		"Retrieve Hearty ID | Reset Password", 
-		"💡 Hearty ID ( 4 ~ 20 chars)", 
+		"💡 Create your ID ( 4 ~ 20 chars)", 
 		"💡 Hearty ID / Account Email"
 	], 
 	timer: "Resend ($min:$sec)", 
@@ -381,7 +381,7 @@ _h$["e"] = _h$["e"] || {
 	], 
 	file: "Hearty_Journal", 
 	trial: [
-		"As a gift for new comers, your 30-day free trial of Hearty VIP premium is now started. You can enjoy all the features during the trial.", 
+		"As a gift for new comers, your 30-day free trial of Hearty VIP premium is now started. You can enjoy all features during the trial.", 
 		"No worry. After $exp, you'll NOT be charged, and you'll be downgraded to the free lite edition. All your entries will also remain in your journal. ( ´･ヮ･) ♡", 
 		"Learn more", 
 		"Start journaling"
@@ -394,7 +394,7 @@ _h$["e"] = _h$["e"] || {
 		"Not now (or done before)"
 	], 
 	n_verify_email: [
-		"Verify your $item to unlock the features", 
+		"Verify your $item to unlock some features", 
 		"To receive reply, email verification is needed."
 	], 
 	n_verify_phone: "Verify your phone number to enhance account security", 
@@ -675,7 +675,7 @@ _h$["a"] = _h$["a"] || {
 	email_new: "Change account email", 
 	email_confirm: 'Confirm to change your email to "$email"?', 
 	email_invalid: "Email address is invalid", 
-	email_verify: ["For account security, email verification is needed to ", "unlock the features.", "Verify now"], 
+	email_verify: ["For account security, email verification is needed to ", "unlock some features.", "Verify now"], 
 	email_send: "Send verification email again?", 
 	email_sent: ["Verification email is sent, check your email on $isp?", 
 				"Verification email is sent, please check your email inbox."], 

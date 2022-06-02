@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 49 */
+/* Hearty Journal Language Pack: Beta 50 */
 
 var _h$ = {};
 
@@ -114,7 +114,7 @@ _h$["i"] = _h$["i"] || {
 		"註册新帐号", 
 		"登录温度日记", 
 		"重置密码 | 找回帐号", 
-		"💡 温度 ID ( 4 ~ 20 英数字)", 
+		"💡 建立你的 ID ( 4 ~ 20 英数字)", 
 		"💡 温度 ID 或 Email"
 	], 
 	timer: "$min:$sec 后可重发", 
