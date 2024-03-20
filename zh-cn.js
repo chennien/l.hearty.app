@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 74 */
+/* Hearty Journal Language Pack: Beta 75 */
 
 var _h$ = {};
 
@@ -248,7 +248,7 @@ _h$["e"] = _h$["e"] || {
 		'为确认本篇符合 <a target="_blank" href="//go.hearty.me/publish"><u>公开日记规范</u>', 
 		"将于小编核准后才会公开", 
 		"将于小编核准后自动发布", 
-		"请勿重复公开/投稿，这会增加确认上的工作<br>PS.若未开启手机通知权限，将无法通知你日记已核准"
+		"请勿重复公开/投稿，系统可能判断你为网军(;´ㅁ`)-3<br>PS.若未开启手机通知权限，将无法通知你日记已核准"
 	], 
 	publish: [
 		"日记似乎有点短，你是大文豪，再多写一点吧~<br>(至少 100字)", 

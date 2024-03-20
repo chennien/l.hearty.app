@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 74 */
+/* Hearty Journal Language Pack: Beta 75 */
 
 var _h$ = {};
 
@@ -248,7 +248,7 @@ _h$["e"] = _h$["e"] || {
 		'為確認本篇符合 <a target="_blank" href="//go.hearty.me/publish"><u>公開日記規範</u>', 
 		"將於小編核准後才會公開", 
 		"將於小編核准後自動發布", 
-		"請勿重覆公開/投稿，這會增加確認上的工作<br>PS.若未開啟手機通知權限，將無法通知你日記已核准"
+		"請勿重覆公開/投稿，系統可能判斷你為網軍(;´ㅁ`)-3<br>PS.若未開啟手機通知權限，將無法通知你日記已核准"
 	], 
 	publish: [
 		"日記似乎有點短，你是大文豪，再多寫一點吧~<br>(至少 100字)", 

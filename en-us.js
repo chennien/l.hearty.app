@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 74 */
+/* Hearty Journal Language Pack: Beta 75 */
 
 var _h$ = {};
 
@@ -246,10 +246,10 @@ _h$["e"] = _h$["e"] || {
 	], 
 	privacy: [
 		"Post is now public", "Post is now private", 
-		'Your post is under review, to ensure it meets the requirement of the <a target="_blank" href="//go.hearty.me/publish"><u>public post rules</u>. ', 
-		"It will be public after approval.", 
-		"It will be posted to the public feed after approval.", 
-		"Please be patient."
+		'Your post is under review, to ensure it complies with the <a target="_blank" href="//go.hearty.me/publish"><u>public post rules</u>. ', 
+		"It will be shared publicly once approved.", 
+		"It will be posted publicly once approved.", 
+		"Avoid duplicates and await moderation. (;´ㅁ`)-3"
 	], 
 	publish: [
 		"Feed posts should at least 100 char long. Please write more.", 
