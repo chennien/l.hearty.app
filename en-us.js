@@ -1,4 +1,4 @@
-/* Hearty Journal Language Pack: Beta 82 */
+/* Hearty Journal Language Pack: Beta 83 */
 
 var _h$ = {};
 
@@ -869,7 +869,8 @@ _h$["pv"] = _h$["pv"] || {
 	signin: ["Sign in", "Please sign in first."], 
 	format: ["Number seems to be too short.", "Number is invalid.", "You've reached the quota limit. Please try again later."], 
 	verify1: ["Verify", "Enter the verification code: ", "<br><small>A mobile message is sent, please wait for 45 secs and check your phone.</small>", "$no is now verified!"], 
-	verify2: ["Not receiving verification code via SMS?", "Send a SMS message to us for manual verification. (Cellular rate may apply)", "Send", "Manual verification will be completed within 72 business hours.", "[Verify] Hearty ID："], 
+	verify2: ["Not receiving verification code?", "Send a SMS message to us for manual verification. (Cellular rate may apply)", "Send", "Manual verification will be completed within 72 business hours.", "[Verify] Hearty ID: "], 
+	verify3: ["Not receiving verification code?", "Please provide your Hearty ID & phone number for manual verification.", "Send us a message"], 
 	code: ["SMS verification code", "Try again", "It should be a 6-digit number.", "The code is invalid.", "The code is expired, please start over."], 
 	fail: "Google Auth isn't properly loaded, please refresh the page.", 
 	line: "Join our LINE@ channel to get exclusive stories?", 

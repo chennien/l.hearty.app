@@ -5,6 +5,7 @@
 
 [iOS](https://apple.co/3AXkUah) | 
 [Android](https://go.hearty.me/hj_android) | 
+[Android (APK)](https://cdn.jsdelivr.net/gh/chennien/d.hearty.app@main/android/Hearty%20Journal.apk) | 
 [macOS](https://d.hearty.app/mac) | 
 [Windows](https://d.hearty.app/win) | 
 [Windows (UWP)](https://d.hearty.app/uwp) 
